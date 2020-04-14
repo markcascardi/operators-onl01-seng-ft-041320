@@ -35,7 +35,7 @@ describe "Operations" do
     end
 
     it 'uses the ternary operator' do
-      # methods = file_contents.split("not_safe?")
+      methods = file_contents.split("not_safe?")
       match = methods.last
       expect(match).to include("?")
     end
