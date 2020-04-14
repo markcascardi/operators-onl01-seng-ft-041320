@@ -14,4 +14,3 @@
 
 
 not_safe?(55)
-end
