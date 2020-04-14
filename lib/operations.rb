@@ -1,3 +1,4 @@
+not_safe?(55)
 
 	#  def unsafe?(speed)
 	# 	 if speed > 60
